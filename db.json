@@ -1,0 +1,16 @@
+{
+  "statistics": [
+    {
+      "id": "win",
+      "total": 0
+    },
+    {
+      "id": "lose",
+      "total": 0
+    },
+    {
+      "id": "tie",
+      "total": 0
+    }
+  ]
+}
